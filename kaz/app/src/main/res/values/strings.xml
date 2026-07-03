@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Küçük Balina</string>
+    <string name="nobet_vakitleri">Nöbet Vakitleri</string>
+    <string name="nobet_sirasi">Nöbet Sırası</string>
+    <string name="yem_vakitleri">Yem Vakitleri</string>
+    <string name="su_vakitleri">Su Vakitleri</string>
+    <string name="ekle">Ekle</string>
+    <string name="sil">Sil</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="iptal">İptal</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_aktif">Alarm Aktif</string>
+    <string name="alarm_pasif">Alarm Pasif</string>
+    <string name="saat">Saat</string>
+    <string name="kisi">Kişi</string>
+    <string name="tarih">Tarih</string>
+    <string name="nobetci">Nöbetçi</string>
+    <string name="yem_saati">Yem Saati</string>
+    <string name="su_saati">Su Saati</string>
+    <string name="nobet_saati">Nöbet Saati</string>
+</resources>
